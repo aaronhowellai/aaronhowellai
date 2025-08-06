@@ -1,16 +1,19 @@
 ## Hey, I'm Aaron. I think LLMs are cool 🌊
 
-[![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/machine--learning--projects-repository-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/aaronhowellai/machine-learning-projects)
-
 AI Engineer Intern @ [Live Digital Recruitment](https://github.com/Live-Digital-Recruitment): A Specialist SaaS Recruitment Agency
 * MSc AI Student at Bristol UWE, 2x Scholar
 ----
+
+[![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/machine--learning--projects-repository-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/aaronhowellai/machine-learning-projects)
+
 ### About Me
- - 🌱 I’m currently learning about Deep Learning in PyTorch and AI Engineering
+ - 🌱 I’m currently learning about Deep Learning in PyTorch and AI Engineering with Multimodal LLMs 
  - 👯 I’m looking for Knowledge Transfer Networks of tinkerers AI Engineering, Agentive Systems and LLMs
  - 💬 I'm open to consultancy opportunities 
  - 📫 How to reach me: 7labtech@gmail.com
- - ⚡ Fun fact: I once made a SOTA Gen AI video on YouTube in 2022 with my design mentor Jake Lockyer, which now has [2M+ views on YouTube](https://www.youtube.com/watch?v=-UBaW1OIgTo).
+- ⚡ **Fun fact:** I once made a SOTA Gen AI video on YouTube in 2022 with my design mentor Jake Lockyer, which now has [2M+ views on YouTube](https://www.youtube.com/watch?v=-UBaW1OIgTo).
+
+
 ----
 ```
 # The Great Wave off Kanagawa
