@@ -39,6 +39,7 @@ AI Engineer Intern @ [Live Digital Recruitment: Specialist SaaS Recruitment Agen
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/ /
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
+### About Me
  - 🌱 I’m currently learning about Deep Learning in PyTorch and AI Engineering
  - 👯 I’m looking for Knowledge Transfer Networks of tinkerers AI Engineering, Agentive Systems and LLMs
  - 💬 I'm open to consultancy opportunities 
