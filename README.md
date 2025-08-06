@@ -1,5 +1,7 @@
 ## Hey, I'm Aaron. I think LLMs are cool 🌊
 
+[![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/machine--learning--projects-repository-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/aaronhowellai/machine-learning-projects)
+
 AI Engineer Intern @ [Live Digital Recruitment](https://github.com/Live-Digital-Recruitment): A Specialist SaaS Recruitment Agency
 * MSc AI Student at Bristol UWE, 2x Scholar
 ----
