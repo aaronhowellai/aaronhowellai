@@ -10,13 +10,13 @@
  - 🌱 I’m currently learning about:
    - `Deep Learning`: In PyTorch
    - `AI Engineering`: Prompt Engineering with Multimodal LLMs, and Agentic workflows with Claude Code & n8n
-   - `Diffusion`: Using Vizcom, Dall-E and Midjourney in a blended `sketch -> renders -> 3D` pipeline 
+   - `Diffusion`: Using Vizcom, Dall-E and Midjourney in a blended `sketch → renders → 3D` pipeline 
   
  - 👯 I’m looking for Knowledge Transfer Networks of tinkerers in AI Engineering, Agentic Systems and LLMs
  - 💬 I have live contracts for AI Training, AI Consultancy & Solution Architecture under [7Lab](https://github.com/7Lab-technologies) 
-   - 📫 **How to reach me:** 7labtech@gmail.com
+   - 📫 **Want to talk?** → 7labtech@gmail.com
 - ⚡ **Fun facts:**
-  - I once made a SOTA Gen AI video on YouTube in 2022 with my design mentor Jake Lockyer, which now has [2M+ views on YouTube](https://www.youtube.com/watch?v=-UBaW1OIgTo).
+  - I once made a SOTA Gen AI video on YouTube in 2022 with my former design mentor Jake Lockyer, which now has [2M+ views on YouTube](https://www.youtube.com/watch?v=-UBaW1OIgTo).
   - I recently got a `Pull Request` merged to the [Google Gemini](https://github.com/google-gemini/cookbook/pull/882) repository as a first-time open-source contributor :)
 
 
