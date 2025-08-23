@@ -7,7 +7,9 @@ AI Engineer Intern @ [Live Digital Recruitment](https://github.com/Live-Digital-
 [![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/machine--learning--projects-repository-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/aaronhowellai/machine-learning-projects)
 
 ### About Me
- - 🌱 I’m currently learning about `Deep Learning`: in PyTorch, and `AI Engineering`: Prompt Engineering with Multimodal LLMs, and Agentic workflows with Claude Code & n8n   
+ - 🌱 I’m currently learning about:
+   - `Deep Learning`: In PyTorch
+   - `AI Engineering`: Prompt Engineering with Multimodal LLMs, and Agentic workflows with Claude Code & n8n   
  - 👯 I’m looking for Knowledge Transfer Networks of tinkerers in AI Engineering, Agentic Systems and LLMs
  - 💬 I'm open to AI consultancy & Solution Architect opportunities 
  - 📫 **How to reach me:** 7labtech@gmail.com
