@@ -1,6 +1,6 @@
 ## Hey, I'm Aaron. I think LLMs are cool 🌊
 
-AI Engineer Intern @ [Live Digital Recruitment](https://github.com/Live-Digital-Recruitment): A Specialist SaaS Recruitment Agency
+`AI Engineer Intern` @ [Live Digital Recruitment](https://github.com/Live-Digital-Recruitment): A Specialist SaaS Recruitment Agency
 * MSc AI Student at Bristol UWE, 2x Scholar
 ----
 
