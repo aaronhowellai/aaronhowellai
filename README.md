@@ -8,7 +8,7 @@ AI Engineer Intern @ [Live Digital Recruitment](https://github.com/Live-Digital-
 
 ### About Me
  - 🌱 I’m currently learning about Deep Learning in PyTorch and AI Engineering with Multimodal LLMs 
- - 👯 I’m looking for Knowledge Transfer Networks of tinkerers AI Engineering, Agentic Systems and LLMs
+ - 👯 I’m looking for Knowledge Transfer Networks of tinkerers in AI Engineering, Agentic Systems and LLMs
  - 💬 I'm open to AI consultancy & Solution Architect opportunities 
  - 📫 **How to reach me:** 7labtech@gmail.com
 - ⚡ **Fun fact:** I once made a SOTA Gen AI video on YouTube in 2022 with my design mentor Jake Lockyer, which now has [2M+ views on YouTube](https://www.youtube.com/watch?v=-UBaW1OIgTo).
