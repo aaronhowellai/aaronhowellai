@@ -1,6 +1,6 @@
 ## Hey, I'm Aaron. I think LLMs are cool 🌊
 
-`AI Engineer Intern` @ [Live Digital Recruitment](https://github.com/Live-Digital-Recruitment): A Specialist SaaS Recruitment Agency
+`AI & Automation Engineer` @ [GDS Group](https://www.linkedin.com/company/gds-group): A Bespoke Immersive Events & B2B Solutions Company 
 * MSc AI Student at Bristol UWE, 2x Scholar
 ----
 
@@ -8,8 +8,9 @@
 
 ### About Me
  - 🌱 I’m currently learning about:
-   - `Deep Learning`: In PyTorch
-   - `AI Engineering`: Prompt Engineering with Multimodal LLMs, and Agentic workflows with Claude Code & n8n
+   
+   - `AI & Automation Engineering`: Prompt Engineering with Multimodal LLMs, RAG with Local Models, and Agentic workflows with Codex CLI, Claude Code & n8n
+   - `Deep Learning`: Building & Training CNNs PyTorch
    - `Diffusion`: Using Vizcom, Dall-E and Midjourney in a blended `sketch → renders → 3D` pipeline 
   
  - 👯 I’m looking for Knowledge Transfer Networks of tinkerers in AI Engineering, Agentic Systems and LLMs
