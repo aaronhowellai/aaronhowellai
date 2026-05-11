@@ -6,6 +6,8 @@
 
 [![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/machine--learning--projects-repository-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/aaronhowellai/machine-learning-projects)
 
+[![7Lab-technologiesOrganization](https://img.shields.io/badge/7Lab--technologies-organization-ea4335?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/7Lab-technologies)
+
 ### About Me
  - 🌱 I’m currently learning about:
    
