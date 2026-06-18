@@ -1,7 +1,8 @@
-## Hey, I'm Aaron. I think LLMs are cool 🌊
+## Hey, I'm Aaron. 🌊
 
-`AI & Automation Engineer` @ [GDS Group](https://www.linkedin.com/company/gds-group): A Bespoke Immersive Events & B2B Solutions Company 
-* MSc AI Student at Bristol UWE, 2x Scholar
+`Software Engineer` @ [Mazago](https://www.mazago.io): Building a developer library for AI agent orchestration.
+ * Follow my page on [LinkedIn](https://https://www.linkedin.com/company/mazago-io)
+* **Prev.** Software Engineer at **GDS Group**
 ----
 
 [![500-AI-Agents-Projects - UseCase](https://img.shields.io/badge/machine--learning--projects-repository-2ea44f?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/aaronhowellai/machine-learning-projects)
@@ -9,15 +10,6 @@
 [![7Lab-technologiesOrganization](https://img.shields.io/badge/7Lab--technologies-organization-ea4335?logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frobot-emoji-2048x2044-kay057lt.png&logoColor=2ea44f)](https://github.com/7Lab-technologies)
 
 ### About Me
- - 🌱 I’m currently learning about:
-   
-   - `AI & Automation Engineering`: Prompt Engineering with Multimodal LLMs, RAG with Local Models, and Agentic workflows with Codex CLI, Claude Code & n8n
-   - `Deep Learning`: Building & Training CNNs PyTorch
-   - `Diffusion`: Using Vizcom, Dall-E and Midjourney in a blended `sketch → renders → 3D` pipeline 
-  
- - 👯 I’m looking for Knowledge Transfer Networks of tinkerers in AI Engineering, Agentic Systems and LLMs
- - 💬 I have live contracts for AI Training, AI Consultancy & Solution Architecture under [7Lab](https://github.com/7Lab-technologies) 
-   - 📫 **Want to talk?** → 7labtech@gmail.com
 - ⚡ **Fun facts:**
   - I once made a SOTA Gen AI video on YouTube in 2022 with my former design mentor Jake Lockyer, which now has [2M+ views on YouTube](https://www.youtube.com/watch?v=-UBaW1OIgTo).
   - I recently got a `Pull Request` merged to the [Google Gemini](https://github.com/google-gemini/cookbook/pull/882) repository as a first-time open-source contributor :)
