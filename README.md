@@ -1,6 +1,6 @@
 ## Hey, I'm Aaron. 🌊
 
-`Software Engineer` @ [Mazago](https://www.mazago.io): Building a developer library for AI agent orchestration.
+`Software Engineer` @ [Mazago](https://mazago.io): Building a developer library for AI agent orchestration.
  * Follow my page on [LinkedIn](https://www.linkedin.com/company/mazago-io)
 * **Prev.** Software Engineer at **GDS Group**
 ----
